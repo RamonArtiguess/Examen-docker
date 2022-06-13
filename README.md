@@ -75,6 +75,9 @@ Ahora solo hace falta comprovar que funciona y subirlo a dockerhub
 
 ![Imagen no encontrada](/Imagenes/Apartado.2/2.png)
 
+
+![Imagen no encontrada](/Imagenes/Apartado.2/3.png)
+
 Y ahora solo falta subir la imagen al dockerhub
 
 -Iniciar sesión en docker
